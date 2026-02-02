@@ -1,3 +1,12 @@
+Problem Title: Palindrome Number
+Difficulty Level: Easy
+Description: Given an integer x, return true if x is a palindrome, and false otherwise.
+
+
+
+
+
+
 class Solution {
     public boolean isPalindrome(int x) {
         if (x < 0) {
